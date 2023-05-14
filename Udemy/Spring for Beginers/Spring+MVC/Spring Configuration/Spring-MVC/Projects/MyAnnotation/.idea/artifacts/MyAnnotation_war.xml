@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyAnnotation:war">
+    <output-path>$PROJECT_DIR$/MyAnnotation/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MyAnnotation</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MyAnnotation.war">
+      <element id="artifact" artifact-name="MyAnnotation:war exploded" />
+    </root>
+  </artifact>
+</component>
