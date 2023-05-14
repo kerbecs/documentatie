@@ -1,0 +1,15 @@
+Join() - forteaza ca firul in care un alt fir se gaseste sa fie oprit si sa se execute firul ce apeleaza metoda join(). Dupa se executa firul de baza, ca main de ex.
+Obiectul blocat va fi in starea Blocked, spre deosebire de Waiting la metoda wait(). Timpul din paranteze face ca threadul in care se gaseste threadul ce apeleaza metoda sa
+fie oprit pentru perioada data de timp, dupa ele se executa iar concomitent. Nu se trece la alt fir pana firul ce apeleaza join() nu se executa pana la final, chiar daca undeva
+este adormit.
+Daemon - fir care serveste pentru alte firuri. Odata ce toate firele ce nu sunt Daemon ajung la final, cele Daemon sunt terminate deodata.
+Interrupt() - daca firul se afla in sleep() sau wait(), metoda data il opreste complet.
+yield() - marcheaza firul ca unul putin important, astfel incat deindata ce un nou fir este Runnable, firul putin important va ceda locul, apoi se va executa. Totusi, firele, ca sa il poata opri,
+trebuie sa aiba prioritate egala sau mai mare.
+wait() - face ca un fir ce are executa o metoda sincronizata sa renunte la ea si sa permita urmatorului sa o execute pana nu e chemata metoda notify()
+notify() - trezeste threadul la obiectul sincronizat si acesta din urma executa mai departe
+
+
+
+
+

@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\user\Desktop\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(54,15): warning C4101: 'nr': unreferenced local variable
+  ConsoleApplication4.vcxproj -> C:\Users\user\Desktop\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
