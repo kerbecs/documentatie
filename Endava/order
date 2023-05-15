@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+    <title>Gustoso</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+        <link rel="stylesheet" type="text/css" href="../CSS/styles.css"/>
+</head>
+<body>
+
+
+<nav class>
+    <div class="buttons">
+      <a href="">Home</a>
+      <a href="">About Us</a>
+      <a href="">Menu</a>
+      <a href="">Order</a><img src="../Images/buy.png" class="icon"/>
+      <a href="../HTML/logIn.html">Log in</a>
+      <a href=""><img src="../Images/facebook.png" class="facebook"/></a>
+      <a href=""><img src="../Images/instagram.png" class="instagram"/></a>
+    </div>
+
+</nav>
+
+
+<header> 
+    <a href="">
+    <font>Gustoso</font>
+<img src="../Images/logo.png"/>
+</a>
+</header>
+
+
+<section>
+    <article>
+        <div class="aboutUs">
+            <p class="welcome">Welcome <br>to Gustoso</p>
+        </div>
+    </article>
+    <div class="main">
+        <img src="../Images/main.jpg"/>
+    </div>
+
+
+</section>
+
+
+<footer>
+</footer>
+
+
+</body>
+</html>
