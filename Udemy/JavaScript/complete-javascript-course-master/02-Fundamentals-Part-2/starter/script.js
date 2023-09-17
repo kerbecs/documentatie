@@ -1,0 +1,1 @@
+let a = function () {10};

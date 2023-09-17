@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b101afd0-a44c-4266-bd1f-0a2ba4123a19" name="Changes" comment="Assignment 1">
+      <change beforePath="$PROJECT_DIR$/../../../Corectat foaia de titlu_Teza 3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Corectat foaia de titlu_Teza.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coursera/HTML_CSS_and_Javascript_for_Web_Developers/Project/MyWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coursera/HTML_CSS_and_Javascript_for_Web_Developers/Project/MyWeb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Coursera/HTML_CSS_and_Javascript_for_Web_Developers/fullstack-course4" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Coursera/HTML_CSS_and_Javascript_for_Web_Developers/fullstack-course4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Document1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Endava-Internship/MapStruct.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Endava-Internship/MapStruct.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Endava/Project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Endava/Project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Jurnal practica.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JurnalPractica.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Raport Practica.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Teza de an Mititiuc Eduard.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Teza.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/10.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/11.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/12.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/13.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/14.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/15.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/16.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/17.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/18.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/19.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/20.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/21.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/22.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/4.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/5.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/6.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/7.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/8.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/9.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../homework-selects/sql_questions.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/R__create_views.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004024700__create_table_countries.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004030300__create_table_departments.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004031900__create_table_employees.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004032100__create_table_jobs.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004032300__create_table_job_history.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004032400__create_table_locations.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004032600__create_table_regions.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004041100__create_ref_constraints.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004045200__insert_in_job_history.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004054200__create_table_pay.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004062100__insert_into_table_pay.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004074100__alter_tables_pay_and_employees_pay.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004081100__create_table_projects.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004085500__create_table_employees_projects.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004088700__trigger_creation_1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migration/V20191004089700__trigger_creation_2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sql_solutions.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2TOtjsKESkRTyXOIVtQQDi16hUC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/Desktop/Project(1)",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
+    "spring.configuration.checksum": "78dd5be391fac2d6bb4151bff9592bbc"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EmployeeServiceApplication">
+    <configuration name="DepartmentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="DepartmentService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.project.DepartmentService.DepartmentServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="EmployeeService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.project.EmployeeService.EmployeeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DepartmentServiceApplication" />
+      <item itemvalue="Spring Boot.EmployeeServiceApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b101afd0-a44c-4266-bd1f-0a2ba4123a19" name="Changes" comment="" />
+      <created>1690926094389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690926094389</updated>
+      <workItem from="1690926095519" duration="4213000" />
+      <workItem from="1690983586395" duration="1093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
