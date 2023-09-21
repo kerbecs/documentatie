@@ -1,0 +1,8 @@
+Boundary events
+•	Boundary event ofera un mod de a modela ce trebuie sa se intample cand un event are loc in timp ce o activitate este activa.
+•	Este un event conectat la un activity care poate fi triggered de un message, timer, signal etc.
+•	Este ca un handler, ce poate gen prinde erori de la alte procese pornite de un subprocess task
+•	Boundry events prind erori ce au loc in task, caci la el ajunge de ex o eroare de la alt proces
+•	Este conectat cu un subprocess task, caci el cheama mai multe procese ce pot returna gen messag, erori etc.
+•	Sunt tot events, deci se noteaza la fel, doar ca stai la mirginea unui task ca notatie
+27.09.2023  15:15
